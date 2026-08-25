@@ -228,8 +228,6 @@ Ele contém:
 - descrição das consultas;
 - considerações finais.
 
-> Antes de publicar o relatório em um repositório público, é recomendável remover informações acadêmicas desnecessárias, como números de matrícula.
-
 ---
 
 ## Execução
